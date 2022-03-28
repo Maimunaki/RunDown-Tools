@@ -14,6 +14,7 @@ A Discord Invites Checker And Formatter
 
 An Automatic Discord Invites Scraper, Checker, And Server Joiner Using Selenium (Might Not Work Anymore - Is Customizable, Have Not Checked)
 
+
  ██▀███   █    ██  ███▄    █ ▓█████▄  ▒█████   █     █░ ███▄    █ 
 ▓██ ▒ ██▒ ██  ▓██▒ ██ ▀█   █ ▒██▀ ██▌▒██▒  ██▒▓█░ █ ░█░ ██ ▀█   █ 
 ▓██ ░▄█ ▒▓██  ▒██░▓██  ▀█ ██▒░██   █▌▒██░  ██▒▒█░ █ ░█ ▓██  ▀█ ██▒
